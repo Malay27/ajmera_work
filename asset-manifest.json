@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ajmera_work/static/css/main.afdb4968.css",
+    "main.js": "/ajmera_work/static/js/main.64b2d72a.js",
+    "index.html": "/ajmera_work/index.html",
+    "main.afdb4968.css.map": "/ajmera_work/static/css/main.afdb4968.css.map",
+    "main.64b2d72a.js.map": "/ajmera_work/static/js/main.64b2d72a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdb4968.css",
+    "static/js/main.64b2d72a.js"
+  ]
+}
