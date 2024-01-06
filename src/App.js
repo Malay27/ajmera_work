@@ -8,6 +8,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Body />}></Route>
+        <Route path="/ajmera_work" element={<Body />}></Route>
         <Route path="/card/:id" element={<ProductDetails />}></Route>
       </Routes>
     </>
